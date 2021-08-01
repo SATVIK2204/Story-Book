@@ -4,7 +4,7 @@
   "description": "App to create daily stories",
   "main": "app.js",
   "scripts": {
-    "start": "cross-env NODE_ENV=production node app.js"
+    "start": "NODE_ENV=production node app.js"
 
   },
   "repository": {
