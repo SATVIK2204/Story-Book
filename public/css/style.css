@@ -23,3 +23,20 @@ p {
 .ca-small{
     height: 50px;
 }
+
+.right-align{
+    position: fixed;
+    font-size: xx-large;
+    bottom: 0;
+    width: 90%;
+    height: 8%;
+   
+}
+.link-container  {
+    display: flex;
+    position: fixed;
+    top: 650px;
+    right: -900px;
+    /* height: 100%; */
+    width: 100%;
+  }
